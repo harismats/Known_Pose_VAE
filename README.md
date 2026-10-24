@@ -1,4 +1,4 @@
-Code for the paper **Exact Pose Actions versus Coordinate-Conditioned Rendering in Known Pose Variational Autoencoders**.
+# Code for the paper “Exact Pose Actions versus Coordinate-Conditioned Rendering in Known Pose Variational Autoencoders”
 
 This repository provides three Google Colab notebooks for the experiments and numerical verification reported in the paper. Python (`.py`) versions are also provided for code inspection. Use the notebooks to run the experiments in Colab.
 
